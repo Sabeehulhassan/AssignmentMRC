@@ -1,0 +1,9 @@
+Q1.Mention some of the applications of SVD:
+Ans.SVD can be used in compression, line fit, corner fit applications.
+
+Q2.How SVD is used in compression:
+Ans.SVD is a technique which represents any given matrix as a sum of rank 1 matrices. It yields a FINITE series expansion for a matrix
+
+Q3. What is guassian elimination:
+Ans. Gaussian elimination is an equivalent to building an LU representationon.Both matrixes express guassian elimination.
+

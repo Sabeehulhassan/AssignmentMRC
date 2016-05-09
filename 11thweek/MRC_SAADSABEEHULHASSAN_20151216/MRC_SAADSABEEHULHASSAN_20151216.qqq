@@ -1,0 +1,10 @@
+Q1. When does the system oscillates?
+Ans.If there is an imaginary component to the root, then the system oscillates
+
+Q2. When the system is not a BIBO stable?
+Ans.If the real component of a complex root is positive, then the system is not BIBO stable 
+
+Q3. What causes forever oscillation in a system?
+Ans. Purely imaginary roots cause the system to oscillate forever
+
+

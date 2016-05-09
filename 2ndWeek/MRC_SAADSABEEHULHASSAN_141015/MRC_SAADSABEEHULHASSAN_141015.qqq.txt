@@ -1,0 +1,8 @@
+1. What is low condition number and high condition number?
+Ans: Low condition number is well conditioned and high condition number is not well conditioned.
+
+2. What are eigen values and eigen vectors:
+Ans:Every eigen vector has an eigen value. Each eigen vector is perpendicular to eachother. It is in the direction of maximum change
+
+3. What is a vector norm:
+Ans: Vector norm is a function which gives a positive length to every vector. 

@@ -1,0 +1,9 @@
+Q1.What is a Jacobian Matrix:
+Ans.The Jacobian matrix is the matrix of all first-order partial derivatives of a vector-valued function. 
+
+Q2.How do we find solution of non linear equations:
+Ans.Solution of non linear equations can be found by using jacobians and Newton Raphson method. 
+
+Q3. What are the limitations of Jacobians:
+Ans.The Jacobi iterative method works fine with well-conditioned linear systems. If the linear system is ill-conditioned, it is most probably that the Jacobi method will fail to converge.
+

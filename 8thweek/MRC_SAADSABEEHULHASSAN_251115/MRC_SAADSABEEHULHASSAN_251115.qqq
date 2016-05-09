@@ -1,0 +1,8 @@
+Q. What is a Transfer function:
+Ans : Given a linear system, Transfer function of the system is the ratio of transform of output to the transform of the input
+
+Q. What is a Block Diagram:
+Ans: It is a pictorial representation of the cause and effect relationship between input and output of physical system.
+
+Q. What are Disaddvantages of Block Diagrams:
+Ans: Differential equations that describe the system must be known.
